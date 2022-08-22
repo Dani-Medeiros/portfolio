@@ -1,0 +1,17 @@
+.hobbies {
+  text-align: center;
+  padding-top: 80px;
+  justify-content: space-evenly;
+}
+
+.hobbies__line {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  padding: 30px;
+}
+
+.hoobies__name {
+  padding-top: 10px;
+  font-size: 15px;
+}

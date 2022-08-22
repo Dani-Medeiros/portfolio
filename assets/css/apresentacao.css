@@ -1,0 +1,33 @@
+.apresentacao {
+  display: flex;
+  flex-direction: row;
+  padding-top: 30px;
+}
+
+h1 {
+  padding-top: 25px;
+  font-size: 40px;
+}
+
+ul,
+li {
+  padding: 0;
+}
+
+.apresentacao-p {
+  font-style: oblique;
+  font-size: 18px;
+}
+
+.contatos {
+  display: flex;
+  flex-direction: row;
+  width: 300px;
+  justify-content: space-between;
+}
+
+.foto {
+  padding: 20px;
+  border-radius: 50%;
+  width: 280px;
+}

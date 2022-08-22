@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 300;
+  text-decoration-line: none;
+  list-style: none;
+  align-items: center;
+}
+
+body {
+  color: #c5c5c5;
+  background-color: #202020;
+}
+
+a {
+  color:#ac739f;
+}
+
+p {
+  line-height: 1.6;
+}
+
+h1, h2, h3 {
+  color:#ac739f;
+}

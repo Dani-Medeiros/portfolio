@@ -1,0 +1,18 @@
+.cabecalho {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.cabecalho__nome {
+  width: 400px;
+}
+
+.cabecalho__menu {
+  width: 400px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}

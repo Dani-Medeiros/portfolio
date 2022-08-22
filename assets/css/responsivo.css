@@ -1,0 +1,99 @@
+@media screen and (min-width: 0px) {
+  body {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .cabecalho {
+    text-align: center;
+  }
+
+  nav {
+    font-size: 12px;
+    justify-content: space-evenly;
+    
+  }
+
+  .apresentacao {
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+    flex-wrap: wrap-reverse;
+  }
+
+  .sobre-mim {
+    text-align: center;
+  }
+
+  .hobbies__img {
+    padding: 5px;
+  }
+
+  .experiencia__box {
+    flex-direction: column;
+    text-align: center;
+    width: auto;
+  }
+
+  .img-desencriptador {
+    width: 100%;
+    margin: auto;
+  }
+
+  .contato-texto, .contato-titulo {
+    width: 80%
+  }
+
+  .contato-texto {
+    padding-bottom: 15px;
+  }
+
+  .formulario {
+    width: 90%;
+  }
+
+}
+
+@media screen and (min-width: 720px) {
+  body {
+    padding-left: 80px;
+    padding-right: 80px;
+  }
+  .cabecalho {
+    text-align: inherit;
+  }
+
+  nav {
+    font-size: 14px;
+    justify-content: space-evenly;
+    margin-left: auto;
+  }
+  
+  .apresentacao {
+    text-align: inherit;
+    flex-wrap: nowrap;
+  }
+
+  .contatos {
+    text-align: inherit;
+  }
+
+  .sobre-mim {
+    text-align: inherit;
+  }
+
+  .experiencia__box {
+    flex-direction: row;
+  }
+
+  .img-desencriptador {
+    width: 450px;
+  }
+
+  .contato-texto, .contato-titulo {
+    width: 60%
+  }
+
+  .formulario {
+    width: 60%;
+  }
+}

@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  min-height: 100%;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+p {
+  font-size: 25px;
+}
+
+a {
+  padding: 10px;
+  background: #ac739f;
+  border-radius: 5px;
+  color: #202020;
+  font-weight: bold;
+}
