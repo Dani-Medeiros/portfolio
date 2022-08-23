@@ -37,7 +37,7 @@ form input:focus, textarea:focus {
   background-color:#ac739f;
 }
 
-.btn-formulario {
+.btn-formulario, a {
   margin: 5px;
   border: none;
   padding: 8px;
