@@ -2,6 +2,7 @@
   body {
     padding-left: 15px;
     padding-right: 15px;
+    font-size: 14px;
   }
   .cabecalho {
     text-align: center;
@@ -22,6 +23,11 @@
 
   .sobre-mim {
     text-align: center;
+  }
+
+  .skills__line, .skills__box {
+    display: flex;
+    flex-wrap: wrap;
   }
 
   .hobbies__img {
@@ -57,13 +63,14 @@
   body {
     padding-left: 80px;
     padding-right: 80px;
+    font-size: 16px;
   }
   .cabecalho {
     text-align: inherit;
   }
 
   nav {
-    font-size: 14px;
+    
     justify-content: space-evenly;
     margin-left: auto;
   }
