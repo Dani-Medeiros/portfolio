@@ -7,6 +7,10 @@
   align-items: center;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   color: #c5c5c5;
   background-color: #202020;
