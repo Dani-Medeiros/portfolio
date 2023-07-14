@@ -97,10 +97,10 @@
   }
 
   .contato-texto, .contato-titulo {
-    width: 60%
+    width: 100%
   }
 
   .formulario {
-    width: 60%;
+    width: 100%;
   }
 }
